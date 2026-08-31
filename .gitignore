@@ -1,0 +1,11 @@
+# 私密配置 —— 绝不上传
+.env
+
+# 生成的图片
+output/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
